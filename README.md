@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Eduardo Henrique
+# 👨🏽‍💻 Eduardo Henrique Boaventura
 
 **`Desenvolvedor FullStack`**
 
