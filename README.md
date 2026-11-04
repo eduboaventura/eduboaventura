@@ -62,3 +62,9 @@ Atualmente, curso Ciência da Computação e já atuo profissionalmente na área
 
 <br/>
 <br/>
+
+---
+
+### Projetos em destaque
+
+- [Robô AVA — automação de processos educacionais](projetos/robo-ava/README.md): aplicação em Python com Playwright, integração com a API da OpenAI, banco de dados e painel de login.
